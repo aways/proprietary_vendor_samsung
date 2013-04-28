@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/aries-common/proprietary/gralloc.aries.so:system/vendor/lib/hw/gralloc.aries.so \
     vendor/samsung/aries-common/proprietary/libglslcompiler.so:system/vendor/lib/libglslcompiler.so \
     vendor/samsung/aries-common/proprietary/libIMGegl.so:system/vendor/lib/libIMGegl.so \
-    vendor/samsung/aries-common/proprietary/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/samsung/aries-common/proprietary/libpvr2d.so:system/vendor/lib/libpvr2d.so \
     vendor/samsung/aries-common/proprietary/libpvrANDROID_WSEGL.so:system/vendor/lib/libpvrANDROID_WSEGL.so \
     vendor/samsung/aries-common/proprietary/libPVRScopeServices.so:system/vendor/lib/libPVRScopeServices.so \
@@ -34,8 +33,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/aries-common/proprietary/libusc.so:system/vendor/lib/libusc.so \
     vendor/samsung/aries-common/proprietary/lib_tvoutengine.so:system/lib/lib_tvoutengine.so \
     vendor/samsung/aries-common/proprietary/libtvout.so:system/lib/libtvout.so \
-    vendor/samsung/aries-common/proprietary/libbt-hci.so:system/lib/libbt-hci.so \
-    vendor/samsung/aries-common/proprietary/libbt-utils.so:system/lib/libbt-utils.so \
     vendor/samsung/aries-common/proprietary/libtvout_jni.so:system/lib/libtvout_jni.so \
     vendor/samsung/aries-common/proprietary/libtvoutfimc.so:system/lib/libtvoutfimc.so \
     vendor/samsung/aries-common/proprietary/libtvouthdmi.so:system/lib/libtvouthdmi.so \
